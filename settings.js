@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -64,10 +64,10 @@ global.location = "Indonesia " //ur location
 global.owner = ['6281223163244'],['6281543253766']
 global.ownertag = '6281223163244','6281543253766' //ur tag number
 global.botname = 'Gogots Bot Md' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/Cpq49T4PuDj3eHGrbJ9Qxa' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.linkz = "https://vt.tiktok.com/ZSRYNhA3V/" //your theme url which will be displayed on whatsapp
+global.websitex = "https://vt.tiktok.com/ZSRYNhA3V/" //ur website to be displayed
+global.botscript = 'https://vt.tiktok.com/ZSRYNhA3V/' //script link
+global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Gogots Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "mehang" //ur sticker watermark author

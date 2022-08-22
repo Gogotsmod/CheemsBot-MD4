@@ -69,8 +69,8 @@ global.websitex = "https://vt.tiktok.com/ZSRYNhA3V/" //ur website to be displaye
 global.botscript = 'https://vt.tiktok.com/ZSRYNhA3V/' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Gogots Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "mehang" //ur sticker watermark author
+global.packname = "Gogots Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🗿🗿 " //ur sticker watermark packname
+global.author = "Imaa" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
